@@ -1,0 +1,3 @@
+-- local time = os.time("*t")
+-- local timestr = time.hour .. " Uhr " .. time.min
+-- print( timestr )
